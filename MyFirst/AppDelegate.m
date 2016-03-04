@@ -20,6 +20,8 @@
     //第一次
     //github与other分开，点右上角publish
     //不知道哪一步
+    
+    //点出了分支
     return YES;
 }
 
